@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://https://github.com/Irfann2003/final-project1.git/static/css/main.f05dda0b.css",
+    "main.js": "https://https://github.com/Irfann2003/final-project1.git/static/js/main.c661e9d8.js",
+    "static/js/787.bd02f72e.chunk.js": "https://https://github.com/Irfann2003/final-project1.git/static/js/787.bd02f72e.chunk.js",
+    "static/media/background3.jpg": "https://https://github.com/Irfann2003/final-project1.git/static/media/background3.27b5d15ef911719bb36f.jpg",
+    "static/media/money heist1.jpg": "https://https://github.com/Irfann2003/final-project1.git/static/media/money heist1.3254bb9d77635d117675.jpg",
+    "index.html": "https://https://github.com/Irfann2003/final-project1.git/index.html",
+    "main.f05dda0b.css.map": "https://https://github.com/Irfann2003/final-project1.git/static/css/main.f05dda0b.css.map",
+    "main.c661e9d8.js.map": "https://https://github.com/Irfann2003/final-project1.git/static/js/main.c661e9d8.js.map",
+    "787.bd02f72e.chunk.js.map": "https://https://github.com/Irfann2003/final-project1.git/static/js/787.bd02f72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05dda0b.css",
+    "static/js/main.c661e9d8.js"
+  ]
+}
